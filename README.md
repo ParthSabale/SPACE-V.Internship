@@ -5,7 +5,7 @@ Hands on Expierence on Projects and Virtual Labs with SPACE Robochip:-
 2) Ultrasonic Sensor
 3) Motor Driver
 4) Obstacle Avoidance Programming
-5) Line Following Control
+5) Line Following Control Program
 6) Joystick Control System
 
 # SPACE ROBOCHIP-
@@ -36,3 +36,17 @@ Experiment Connections:
 ![IMG_20220301_113910](https://user-images.githubusercontent.com/98326728/156114801-ac2a7a3e-0e0f-43dd-908d-d88b10e92f09.jpg)
 
 As the name suggest a motor driver IC or module is used to drive the motors of a robot. We are using it as a kind of protection from high voltages which would damage our microcontroller board which in this case is our Space Robochip. Its because our microcontroller board only require maximum of 5v to run but for motors we need more voltage for its proper working. So we use this driver as a link to carry out both the jobs together, which is the proper working of microcontroller board as well as the motors
+
+# Obstacle Avoidance Programming
+
+![IMG_20220301_130050](https://user-images.githubusercontent.com/98326728/156124677-c147f08d-c9d4-4174-a244-3c70eadbe156.jpg)
+
+# Line Following Control Program
+
+![IMG_20220301_125612](https://user-images.githubusercontent.com/98326728/156124031-0933d0ed-fbca-426e-8463-244d254498d5.jpg)
+
+# Joystick Control System
+
+![IMG_20220301_111424](https://user-images.githubusercontent.com/98326728/156124204-334edbee-61cf-4477-a505-9ad24d6f1a1a.jpg)
+
+In this experiment we will be building a line follower robot A proximity sensor is a sensor able to detect the presence of nearby objects without any physical contact. A proximity sensor often emits an electromagnetic field or a beam of electromagnetic radiation (infrared, for instance), and looks for changes in the field or return signal.
