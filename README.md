@@ -51,3 +51,4 @@ As the name suggest a motor driver IC or module is used to drive the motors of a
 ![IMG_20220301_111424](https://user-images.githubusercontent.com/98326728/156124204-334edbee-61cf-4477-a505-9ad24d6f1a1a.jpg)
 
 In this experiment we will be building a line follower robot A proximity sensor is a sensor able to detect the presence of nearby objects without any physical contact. A proximity sensor often emits an electromagnetic field or a beam of electromagnetic radiation (infrared, for instance), and looks for changes in the field or return signal.
+.
